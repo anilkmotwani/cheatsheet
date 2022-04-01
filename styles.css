@@ -1,0 +1,48 @@
+/* All Body */
+
+
+body {
+    text-align: center;
+    background-color: black;
+    color: greenyellow;
+    font-family: monospace, fantasy;
+}
+
+/* Elements Styling */
+h3 {
+    margin-top: 30px;
+    font-family: fantasy;
+}
+
+.section {
+    padding: 20px 0;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+/* Table styling */
+
+table {
+    margin: auto;
+    text-align: left;
+    border: 1px dotted;
+    border-color: gainsboro;
+}
+
+th {
+    border: 1px solid;
+    border-color: gainsboro;
+    text-align: center;
+    padding: 1em;
+}
+
+td {
+    border: 1px solid;
+    border-color: gainsboro;
+    padding: 0.5em;
+}
+
+
+
